@@ -4,7 +4,7 @@
 <head>
 <title><h1> Food Tour with A </h1></title>
 </head>
-<body> <h2 style="text-align:center; background-color:LightSeaGreen; height:100px; wigth:200px; font-size:200%">Welcome to 'Food Tour with A'.</h2>
+<body> <h2 style="text-align:center; background-color:LightSeaGreen; height:100px; wigth:200px; font-size:250%">Welcome to 'Food Tour with A'.</h2>
  <p style="text-align:center; font-size:125%">From here on, we embark on a world-wide journey of exploring the various foods from different places and cultures.
  We will start from Africa - a culture-filled continent and then end the amazing journey in Australia- a place famous for its kangaroos and koalas.     
     Along the way, we will learn about a lot of misconceptions that people have about different cultures and most importantly - HAVE FUN! What is a tour if you don't have fun?
